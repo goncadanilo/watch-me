@@ -16,10 +16,7 @@ interface SideBarProps {
   handleClickButton: (id: number) => void;
 }
 
-export function SideBar({
-  selectedGenreId,
-  handleClickButton
-}: SideBarProps) {
+export function SideBar({ selectedGenreId, handleClickButton }: SideBarProps) {
   const [genres, setGenres] = useState<GenreResponseProps[]>([]);
 
   useEffect(() => {
