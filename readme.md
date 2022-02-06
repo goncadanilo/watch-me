@@ -39,7 +39,9 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 ## 💻 Projeto
 
-Nesse desafio, precisei refatorar uma aplicação já pronta para melhorar a componentização da mesma. O objetivo é que a aplicação seja divida em componentes, que sejam reutilizáveis. Dessa forma, pude treinar os conceitos aprendidos no módulo: **Fundamentos do ReactJS**.
+Nesse desafio, precisei refatorar uma aplicação já pronta para melhorar a componentização da mesma. O objetivo foi dividir a aplicação em componentes, que sejam reutilizáveis. 
+
+Dessa forma, pude treinar os conceitos aprendidos no módulo: **Fundamentos do ReactJS**.
 
 - [x] A aplicação possui apenas uma funcionalidade principal que é a listagem de filmes;
 - [x] Na sidebar é possível selecionar qual categoria de filmes deve ser listada;
