@@ -58,7 +58,7 @@ Dessa forma, pude treinar os conceitos aprendidos no módulo: **Fundamentos do R
 ### 🗂 Faça um clone do projeto
 
 ```bash
-$ git clone https://github.com/goncadanilo/watch-me
+$ git clone https://github.com/goncadanilo/watch-me.git
 ```
 
 ### 📥 Instale as dependências
