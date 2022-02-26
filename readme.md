@@ -64,25 +64,25 @@ Dessa forma, pude treinar os conceitos aprendidos no módulo: **Fundamentos do R
 ### 🗂 Faça um clone do projeto
 
 ```bash
-$ git clone https://github.com/goncadanilo/watch-me.git
+git clone https://github.com/goncadanilo/watch-me.git
 ```
 
 ### 📥 Instale as dependências
 ```bash
 # Acesse o diretório do projeto
-$ cd watch-me
+cd watch-me
 
 # Instale as dependências
-$ yarn
+yarn
 ```
 
 ### ⚡ Inicie a aplicação
 ```bash
 # Executar a Fake API com JSON Server
-$ yarn server
+yarn server
 
 # Executar a aplicação
-$ yarn dev
+yarn dev
 ```
 
 ## 📝 Licença
